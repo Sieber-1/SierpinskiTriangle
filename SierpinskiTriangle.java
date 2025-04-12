@@ -1,8 +1,4 @@
-//ac04exir
-// Matrikelnummer: 23520615
 
-// ta51cupa
-// Matrikelnummer : 23608582
 
 
 import java.awt.Color;
